@@ -9,7 +9,7 @@ const meals = [
     description: "Smoky Nigerian jollof rice cooked with rich spices.",
     price: 2500,
     category: "Rice & Meals",
-    image: "jollof-rice.png",
+    image: "IMG/jollof-rice.png",
     tag: "Customer favourite"
   },
   {
@@ -18,7 +18,7 @@ const meals = [
     description: "Colourful fried rice with vegetables and savoury seasoning.",
     price: 2800,
     category: "Rice & Meals",
-    image: "fried-rice.png",
+    image: "IMG/fried-rice.png",
     tag: "Popular"
   },
   {
@@ -27,7 +27,7 @@ const meals = [
     description: "Juicy, well-seasoned chicken grilled to perfection.",
     price: 3500,
     category: "Proteins",
-    image: "grilled-chicken.png",
+    image: "IMG/grilled-chicken.png",
     tag: "Chef's pick"
   },
   {
@@ -36,7 +36,7 @@ const meals = [
     description: "Tender turkey tossed in a bold pepper sauce.",
     price: 4000,
     category: "Proteins",
-    image: "peppered turkey.png",
+    image: "IMG/peppered turkey.png",
     tag: "Chef's pick"
   },
   {
@@ -45,7 +45,7 @@ const meals = [
     description: "Smoky jollof rice served with chicken and plantain.",
     price: 7000,
     category: "Rice & Meals",
-    image: "party-jollof-combo.png",
+    image: "IMG/party-jollof-combo.png",
     tag: "Full meal"
   },
   {
@@ -54,7 +54,7 @@ const meals = [
     description: "Sweet, golden plantain with a delicious caramelised edge.",
     price: 1200,
     category: "Sides",
-    image: "plantain.png",
+    image: "IMG/plantain.png",
     tag: ""
   },
 
@@ -64,7 +64,7 @@ const meals = [
     description: "Nice and tasty indomie, to brighten your mood, well sesoned .",
     price: 2000,
     category: "Rice & Meals",
-    image: "indomie and egg2.jpg",
+    image: "IMG/indomie and egg2.jpg",
     tag: "Popular"
   },
   {
@@ -73,7 +73,7 @@ const meals = [
     description: "A refreshing drink to complement your favourite meal.",
     price: 600,
     category: "Drinks",
-    image: "coke.jpg",
+    image: "IMG/coke.jpg",
     tag: ""
   },
     {
@@ -82,7 +82,7 @@ const meals = [
     description: "Sweet spaghetti that suites your taste.",
     price: 1700,
     category: "Rice & Meals",
-    image: "moi-moi.png",
+    image: "IMG/moi-moi.png",
     tag: "Full meal"
   },
      {
@@ -91,7 +91,7 @@ const meals = [
     description: "The smoothie that refreshes.",
     price: 1800,
     category: "Drinks",
-    image: "smoothie.jpg",
+    image: "IMG/smoothie.jpg",
     tag: "Favorite"
   },
   {
@@ -100,7 +100,7 @@ const meals = [
     description: "Otherworldly taste of flavour.",
     price: 1800,
     category: "Rice & Meals",
-    image: "indomie and egg2.jpg",
+    image: "IMG/indomie and egg2.jpg",
     tag: "Favorite"
   },
    {
@@ -109,7 +109,7 @@ const meals = [
     description: "Your home-made moi-moi.",
     price: 400,
     category: "Proteins",
-    image: "moi-moi.png",
+    image: "IMG/moi-moi.png",
     tag: "Favorite"
   },
 
@@ -117,10 +117,10 @@ const meals = [
 {
     id: 13,
     name: "Small Chops",
-    description: ".",
+    description: "Small chops that taste otherworldly.",
     price: 400,
     category: "Sides",
-    image: "small chops.jpg",
+    image: "IMG/small chops.jpg",
     tag: "Favorite"
   },
   
