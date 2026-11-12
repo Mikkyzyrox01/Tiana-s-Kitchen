@@ -9,7 +9,7 @@ const meals = [
     description: "Smoky Nigerian jollof rice cooked with rich spices.",
     price: 2500,
     category: "Rice & Meals",
-    image: "VIDIMG FOLDER/jollof-rice.png",
+    image: "jollof-rice.png",
     tag: "Customer favourite"
   },
   {
@@ -18,7 +18,7 @@ const meals = [
     description: "Colourful fried rice with vegetables and savoury seasoning.",
     price: 2800,
     category: "Rice & Meals",
-    image: "VIDIMG FOLDER/fried-rice.png",
+    image: "fried-rice.png",
     tag: "Popular"
   },
   {
@@ -27,7 +27,7 @@ const meals = [
     description: "Juicy, well-seasoned chicken grilled to perfection.",
     price: 3500,
     category: "Proteins",
-    image: "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=900&q=85",
+    image: "grilled-chicken.png",
     tag: "Chef's pick"
   },
   {
@@ -36,7 +36,7 @@ const meals = [
     description: "Tender turkey tossed in a bold pepper sauce.",
     price: 4000,
     category: "Proteins",
-    image: "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=900&q=85",
+    image: "peppered turkey.png",
     tag: "Chef's pick"
   },
   {
@@ -45,7 +45,7 @@ const meals = [
     description: "Smoky jollof rice served with chicken and plantain.",
     price: 7000,
     category: "Rice & Meals",
-    image: "VIDIMG FOLDER/party-jollof-combo.png",
+    image: "party-jollof-combo.png",
     tag: "Full meal"
   },
   {
@@ -54,90 +54,73 @@ const meals = [
     description: "Sweet, golden plantain with a delicious caramelised edge.",
     price: 1200,
     category: "Sides",
-    image: "https://images.unsplash.com/photo-1587132137056-bfbf0166836e?auto=format&fit=crop&w=900&q=85",
+    image: "plantain.png",
     tag: ""
   },
+
   {
     id: 7,
-    name: "Fresh Salad",
-    description: "A refreshing mix of crisp greens and fresh vegetables.",
-    price: 1500,
-    category: "Sides",
-    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=900&q=85",
-    tag: ""
-  },
-  {
-    id: 8,
-    name: "Fresh Juice",
-    description: "A refreshing drink to complement your favourite meal.",
-    price: 1000,
-    category: "Drinks",
-    image: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=900&q=85",
-    tag: ""
-  },
-  {
-    id: 9,
     name: "Indomie and Egg",
     description: "Nice and tasty indomie, to brighten your mood, well sesoned .",
     price: 2000,
     category: "Rice & Meals",
-    image: "/VIDIMG FOLDER/indomie-egg.jpg",
+    image: "indomie and egg2.jpg",
     tag: "Popular"
   },
   {
-    id: 10,
+    id: 8,
     name: "Coca-cola",
     description: "A refreshing drink to complement your favourite meal.",
     price: 600,
     category: "Drinks",
-    image: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=900&q=85",
+    image: "coke.jpg",
     tag: ""
   },
     {
-    id: 11,
+    id: 9,
     name: "Spaghetti-Bolognese",
     description: "Sweet spaghetti that suites your taste.",
     price: 1700,
     category: "Rice & Meals",
-    image: "/VIDIMG FOLDER/moi-moi.png",
+    image: "moi-moi.png",
     tag: "Full meal"
   },
      {
-    id: 12,
+    id: 10,
     name: "Smoothie",
     description: "The smoothie that refreshes.",
     price: 1800,
     category: "Drinks",
-    image: "/VIDIMG FOLDER/smoothie.jpg",
+    image: "smoothie.jpg",
     tag: "Favorite"
   },
   {
-   id: 13,
+   id: 11,
     name: "Indomie and chicken",
     description: "Otherworldly taste of flavour.",
     price: 1800,
     category: "Rice & Meals",
-    image: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=900&q=85",
+    image: "indomie and egg2.jpg",
     tag: "Favorite"
   },
    {
-   id: 14,
+   id: 12,
     name: "Moi-moi",
     description: "Your home-made moi-moi.",
     price: 400,
     category: "Proteins",
-    image: "/VIDIMG FOLDER/moi-moi.png",
+    image: "moi-moi.png",
     tag: "Favorite"
   },
 
 
 {
-    id: 15,
+    id: 13,
     name: "Small Chops",
     description: ".",
     price: 400,
     category: "Sides",
-    image: "/VIDIMG FOLDER/small chops.jpg",
+    image: "small chops.jpg",
     tag: "Favorite"
   },
   
